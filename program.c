@@ -1,3 +1,7 @@
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+
 int is_valid(const char* password)
 {
   if (strcmp(passwod, "poop") == 0) {
