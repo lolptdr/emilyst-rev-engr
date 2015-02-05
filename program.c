@@ -26,3 +26,7 @@ int main()
   free(input);
   return 0;
 }
+
+
+// gcc program.c -o program
+// ./program
